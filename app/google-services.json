@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728887465521",
+    "firebase_url": "https://native-android-learning-default-rtdb.firebaseio.com",
+    "project_id": "native-android-learning",
+    "storage_bucket": "native-android-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728887465521:android:5ce573cb45f0e8f6d7a710",
+        "android_client_info": {
+          "package_name": "com.example.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728887465521-sojeq4k82ebdvh3pnpfst6pcol68ps7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidfirebase",
+            "certificate_hash": "596d4540fa33f7ab24a84c5b5458b677d7232853"
+          }
+        },
+        {
+          "client_id": "728887465521-h6ekkdf56gt8lq816nd51ivh5qt3o5kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQMRNz1C5_5U0bljCa0aMC-lFho4_Hn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728887465521-h6ekkdf56gt8lq816nd51ivh5qt3o5kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
